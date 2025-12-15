@@ -1,0 +1,16 @@
+{
+  "name": "seleniumgrid-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^11.7.5",
+    "selenium-webdriver": "^4.39.0"
+  }
+}
